@@ -1,0 +1,14 @@
+body{ 
+background-color:lightcyan; background-image:url(http://wallsdesk.com/wp-content/uploads/2018/04/Plane-HD-pics.jpg);
+    font-family:bold,sans-serif;
+    width 80%; 
+    margin-left:750px;
+    margin-right:500px; 
+    margin-top:100px;
+    margin-bottom:50px;
+    background-size:cover;color:firebrick;
+    
+}
+img{
+    padding:30px
+}
